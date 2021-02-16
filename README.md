@@ -36,7 +36,7 @@ Linear Algebra in R, 1 Creating Matrix
 <h2>Including Plots</h2>
 <p>You can also embed plots, for example:</p>
 ![](Linear-Algebra-in-R-1-Creating-Matrix.JPG)
-
+  
 <p>Note that the&nbsp;<code>echo = FALSE</code>&nbsp;parameter was added to the code chunk to prevent printing of the R code that generated the plot.</p>
 </div>
 </div>
