@@ -1,0 +1,35 @@
+---
+title: "Linear Algebra in R-1 Creating Matrix"
+author: Copyright @ Aldhias Rizky Januar @ Prof.Dr. Suhartono M.Kom @ Magister Informatika
+  @ UIN Maulana Malik Ibrahim @ UIN Malang
+date: "16/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Latihan Rstudio-Awal
+
+Materi Linear Algebra in R, 1 Creating Matrix.
+
+Untuk download file bisa klik link dibawah ini :
+
+https://github.com/aldhias/Creating-Matrix-in-R
+
+http://aldhiasjanuar.online/detailpost/latihan-linear-algebra-in-r-1-creating-matrix
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
